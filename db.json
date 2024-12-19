@@ -6,7 +6,20 @@
             "surname": "psfp5",
             "photo_url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/d5/d5f617108357857f89437c82ede1b98a08a988ff_full.jpg",
             "balance": 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-            
+        },
+        {
+            "id": 3,
+            "name": "qraws",
+            "surname": "hunter",
+            "photo_url":"https://cs.pikabu.ru/post_img/big/2013/07/09/10/1373385319_602508560.jpg",
+            "balance": 1000000000
+        }, 
+        {
+             "id": 1,
+            "name": "Bender",
+            "surname": "Robot",
+            "photo_url": "https://i.pinimg.com/originals/c7/73/f4/c773f4d77f6088a92d4ac01b94b8296d.jpg",
+            "balance": 11
         }
     ]
 }
