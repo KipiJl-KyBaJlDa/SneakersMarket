@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 3,
+            "name": "qraws",
+            "surname": "hunter",
+            "photo_url":"https://cs.pikabu.ru/post_img/big/2013/07/09/10/1373385319_602508560.jpg",
+            "balance": 1000000000
+        } 
     ]
 }
