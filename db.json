@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 4,
+            "name": "Patrick",
+            "surname": "Bateman",
+            "photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp3AgCBwr0djqyAJBsCt6XLXApfiLkaCto4B3GGGLjo3Omj1-v",
+            "balance": 0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005
+        }
     ]
 }
