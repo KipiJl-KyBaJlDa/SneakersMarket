@@ -46,5 +46,13 @@
             "author_id": 1,
             "photo_url": "https://megasport.ua/api/s3/images/megasport-dev/products/3555570144/67473f8d006e8-6389105.jpeg"
         },
+        {
+            "id": 6,
+            "name": "Nike Shox Ride 2 Supreme Black",
+            "description": "Designed in partnership with Supreme, these Nike Shox Ride 2 SP feature a sleek design in black. They're crafted from a mix of leather and mesh panels, with reflective detailing, and sit atop the iconic Nike Shox units with Supreme branding.",
+            "price": 320,
+            "author_id": 3,
+            "photo_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1MfmiF_osTBTFa03XW7oKAkwAmU4MgBsKjksi_loGkgoHTKGW7cc3-QvYdhs8QgabZkB8cEuN7ol81SrpbmCH4G80_8y51lqp0JE-iGlcSx7UUM2FWumF"
+        }
     ]
 }
