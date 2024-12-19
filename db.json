@@ -21,5 +21,23 @@
             "photo_url": "https://i.pinimg.com/originals/c7/73/f4/c773f4d77f6088a92d4ac01b94b8296d.jpg",
             "balance": 11
         }
+    ],
+    "products": [
+        {
+            "id": 4,
+            "name": "jordan1",
+            "description": "some text....",
+            "price": 0.5,
+            "author_id": 2,
+            "photo_url": "https://play-lh.googleusercontent.com/L4ELB2PYiQriE4fgz-KisQTpBVNxXM3jXvTk4Wq9QM2CEQf0kL6UR41ty-KwhWYUJQfB=w240-h480-rw"
+        },
+        {
+            "id": 5,
+            "name": "Nike Dunk1",
+            "description": "some text....",
+            "price": 1,
+            "author_id": 2,
+            "photo_url": "https://meduza.io/image/attachments/images/006/480/301/large/6qKxRKCCsjrBx6dxLWtKyg.jpg"
+        }
     ]
 }
