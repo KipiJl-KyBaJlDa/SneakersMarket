@@ -1,6 +1,13 @@
 {
     "users": [
         {
+            "id": 4,
+            "name": "Patrick",
+            "surname": "Bateman",
+            "photo_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp3AgCBwr0djqyAJBsCt6XLXApfiLkaCto4B3GGGLjo3Omj1-v",
+            "balance": 0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005
+        },
+        {
             "id": 2,
             "name": "dergy_tomyk",
             "surname": "psfp5",
@@ -11,11 +18,11 @@
             "id": 3,
             "name": "qraws",
             "surname": "hunter",
-            "photo_url":"https://cs.pikabu.ru/post_img/big/2013/07/09/10/1373385319_602508560.jpg",
+            "photo_url": "https://cs.pikabu.ru/post_img/big/2013/07/09/10/1373385319_602508560.jpg",
             "balance": 1000000000
-        }, 
+        },
         {
-             "id": 1,
+            "id": 1,
             "name": "Bender",
             "surname": "Robot",
             "photo_url": "https://i.pinimg.com/originals/c7/73/f4/c773f4d77f6088a92d4ac01b94b8296d.jpg",
@@ -38,6 +45,22 @@
             "price": 1,
             "author_id": 2,
             "photo_url": "https://meduza.io/image/attachments/images/006/480/301/large/6qKxRKCCsjrBx6dxLWtKyg.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Nike Air Max 98 TL Supreme",
+            "description": "The Details. Nike and Supreme collaborate on these Air Max 98 TL sneakers. Taking inspiration from gradient maps, they are detailed with a panelled upper, and finished with a cushioned Air Max sole.",
+            "price": 400,
+            "author_id": 3,
+            "photo_url": "https://cdn-images.farfetch-contents.com/19/44/54/09/19445409_43272994_1000.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Nike Force1",
+            "description": "some text....",
+            "price": 200000,
+            "author_id": 1,
+            "photo_url": "https://megasport.ua/api/s3/images/megasport-dev/products/3555570144/67473f8d006e8-6389105.jpeg"
         }
     ]
 }
